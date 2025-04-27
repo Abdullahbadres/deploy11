@@ -8,7 +8,6 @@ Dilengkapi fitur wishlist, dark mode, filtering, search, dan UI responsif.
 ## 🚀 Fitur Utama
 
 - 🌄 **Banner Slider**: Menampilkan banner destinasi dengan carousel
-- 🌙 **Dark Mode**: Toggle mode terang/gelap ( Akan dioptimalisasikan segera karena belum berfungsi )
 - 🧭 **List Aktivitas**: Data dari API Travel
 - 🛍️ **Wishlist Lokal**: Tambah/hapus dari localStorage
 - 🧩 **Filter & Search**:
